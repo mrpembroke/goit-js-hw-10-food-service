@@ -1,4 +1,4 @@
-import productCardsTpl from '../templates/product-cards';
+import productCardsTpl from '../templates/product-cards.hbs';
 import products from './menu.json';
 // console.log(productCardsTpl);
 
