@@ -15,4 +15,4 @@ var e={LIGHT:"light-theme",DARK:"dark-theme"},t={body:document.querySelector("bo
 },{}],"Focm":[function(require,module,exports) {
 "use strict";require("./css/styles.css");var e=n(require("./js/menu-items.js")),t=n(require("./js/theme-toggle.js"));function r(){if("function"!=typeof WeakMap)return null;var e=new WeakMap;return r=function(){return e},e}function n(e){if(e&&e.__esModule)return e;if(null===e||"object"!=typeof e&&"function"!=typeof e)return{default:e};var t=r();if(t&&t.has(e))return t.get(e);var n={},u=Object.defineProperty&&Object.getOwnPropertyDescriptor;for(var o in e)if(Object.prototype.hasOwnProperty.call(e,o)){var i=u?Object.getOwnPropertyDescriptor(e,o):null;i&&(i.get||i.set)?Object.defineProperty(n,o,i):n[o]=e[o]}return n.default=e,t&&t.set(e,n),n}
 },{"./css/styles.css":"krre","./js/menu-items.js":"yqMe","./js/theme-toggle.js":"GZy1"}]},{},["Focm"], null)
-//# sourceMappingURL=/src.874457cd.js.map
+//# sourceMappingURL=/goit-js-hw-10-food-service/src.874457cd.js.map
